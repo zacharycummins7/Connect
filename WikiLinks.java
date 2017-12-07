@@ -14,7 +14,7 @@ import org.openqa.selenium.WebElement;
 
 public class WikiLinks extends Base {
 
-	@Test
+	Test
 	public static void findingAllLinks() throws InterruptedException, IOException {
 // Creating a new set of Cookies
 		CookieHandler.setDefault(new CookieManager());
